@@ -1,0 +1,5 @@
+node_modules
+*.DS_Store
+creds.data
+npm-debug.log
+google-vision-key.sh
